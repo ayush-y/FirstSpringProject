@@ -17,6 +17,13 @@ public class Todo {
     @Column
     String title;
 
+
     @Column
     Boolean isCompleted;
+    @Column
+    Integer userId;
+    @Column
+    String description;
+    @Column
+    String priority;
 }
