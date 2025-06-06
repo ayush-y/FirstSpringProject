@@ -52,4 +52,14 @@ This is a simple Spring Boot project that connects to a MySQL database using Spr
 #### Step 1: Login to MySQL
 ```bash
 mysql -u root -p
+src/
+├── main/
+│   ├── java/
+│   │   └── com.example.demo/
+│   │       ├── entity/       # Your JPA entities
+│   │       ├── repository/   # Your JPA repositories
+│   │       └── controller/   # Your REST controllers (optional)
+│   └── resources/
+│       └── application.properties
+
 
