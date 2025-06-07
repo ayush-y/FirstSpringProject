@@ -44,6 +44,7 @@ This is a simple Spring Boot project that connects to a MySQL database using Spr
 - MySQL installed and running
 - IntelliJ / VS Code / any IDE
 - Maven or Gradle
+- Used gradle
 
 ---
 
