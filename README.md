@@ -7,7 +7,7 @@ Project: Maven or Gradle
 
 Language: Java
 
-Spring Boot: Keep default (latest stable)
+Spring Boot: Keep default
 
 Group: com.example
 
