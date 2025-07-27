@@ -51,9 +51,8 @@ This is a simple Spring Boot project that connects to a MySQL database using Spr
 ### 2. 🗃️ MySQL Setup
 
 #### Step 1: Login to MySQL
-```bash
-mysql -u root -p
-src/
+
+```src
 ├── main/
 │   ├── java/
 │   │   └── com.example.demo/
