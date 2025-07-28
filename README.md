@@ -1,25 +1,13 @@
 Option 1: Use Spring Initializr (Online UI)
 Go to https://start.spring.io
 
-Choose:
-
-Project: Maven or Gradle
-
-Language: Java
-
-Spring Boot: Keep default
-
-Group: com.example
-
-Artifact: demo
-
-Add dependencies like:
-
-Spring Web
-
-Spring Boot DevTools (optional for live reload)
-
-Click Generate
+Option	Value
+Project	Maven (or Gradle)
+Language	Java
+Spring Boot Version	Default
+Group	com.example
+Artifact	demo
+Dependencies	Spring Web, Spring Boot DevTools (optional)
 
 Extract the .zip and open in IntelliJ, VS Code, or Eclipse.
 
