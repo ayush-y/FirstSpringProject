@@ -1,17 +1,21 @@
 Option 1: Use Spring Initializr (Online UI)
 Go to https://start.spring.io
 
-Option	Value
-Project	Maven (or Gradle)
-Language	Java
-Spring Boot Version	Default
-Group	com.example
-Artifact	demo
-Dependencies	Spring Web, Spring Boot DevTools (optional)
+Project: Maven or Gradle
 
-Extract the .zip and open in IntelliJ, VS Code, or Eclipse.
+Language: Java
 
-# Spring Boot + MySQL + Spring Data JPA Example
+Spring Boot: Keep default
+
+Group: com.example
+
+Artifact: demo
+
+Add dependencies like:
+
+Spring Web
+
+Spring Boot DevTools (optional for live reload)
 
 This is a simple Spring Boot project that connects to a MySQL database using Spring Data JPA. It provides basic CRUD operations using a repository pattern.
 
