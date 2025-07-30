@@ -13,7 +13,7 @@ Artifact: demo
 
 Add dependencies like:
 
-Spring Web
+Spring Web..
 
 Spring Boot DevTools (optional for live reload)
 
